@@ -1,0 +1,34 @@
+
+.border{
+    background-color: black;
+    color: white;
+}
+
+.branch {
+    text-align: center;
+}
+
+.title {
+    background-color: black;
+    color: white;
+}
+
+.text {
+    color: white;
+    background-color: royalblue;
+    height: 25px;
+}
+
+.result {
+    background-color: lightblue;
+}
+
+.weighting {
+    background-color: blueviolet;
+    height: 25px;
+}
+
+.CFC {
+    color: white;
+    background-color: royalblue;
+}
